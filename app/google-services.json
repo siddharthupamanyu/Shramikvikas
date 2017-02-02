@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "846442042759",
+    "project_id": "shramiksewa"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846442042759:android:439ee716d2c864fa",
+        "android_client_info": {
+          "package_name": "com.example.rksharma.shramiksewa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846442042759-ggj1ssag2a6qraaksl0i3hpajdaq1ah0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChbzax_f-BI2f1PYTJ0qvHgwNG_N5s51A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
